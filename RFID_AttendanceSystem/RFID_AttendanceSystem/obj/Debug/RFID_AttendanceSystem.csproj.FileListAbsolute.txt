@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\bin\Debug\RFID_AttendanceSystem.exe.config
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\bin\Debug\RFID_AttendanceSystem.exe
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\bin\Debug\RFID_AttendanceSystem.pdb
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.Dashboard.AddUser.resources
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.Form1.resources
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.Properties.Resources.resources
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.exe
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.pdb
+C:\Users\USER\Documents\Bunyi_CarlAndrei\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\RFID_AttendanceSystem.exe.config
